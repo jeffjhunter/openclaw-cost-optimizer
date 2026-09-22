@@ -879,7 +879,7 @@ All 29 verified models available on OpenRouter. The agent should know these for 
 | `mini` | GPT-5 Mini | `openrouter/openai/gpt-5-mini` | $0.30/$1.20 | OpenAI's budget pick |
 | `gem3flash` | Gemini 3 Flash | `openrouter/google/gemini-3.8-flash` | $0.50/$2.00 | Best tool-calling cheap model |
 | `gemmafree` | Gemma 4 31B Free | `openrouter/google/gemma-4-31b-it:free` | FREE | ⚠️ Free tier — unreliable |
-| `mimo` | MiMo v2.5 | `openrouter/xiaomi/mimo-v2.5` | verify price | No free variant anymore |
+| `mimo` | MiMo v2.5 | `openrouter/xiaomi/mimo-v2.5` | $0.14/$0.28 | No free variant anymore |
 | `devfree` | Qwen3.8 27B Free | `openrouter/qwen/qwen3.8-27b:free` | FREE | ⚠️ Free tier — unreliable |
 | `glm` | GLM 5.2 Free | `openrouter/z-ai/glm-5.2:free` | FREE | ⚠️ Free tier — unreliable |
 
